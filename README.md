@@ -10,4 +10,4 @@ Cybersecurity student, working toward an internship.
 
 C++ · C# · Python
 
-[Discord](https://discord.com/users/13223681
+[Discord](https://discord.com/users/1322368185516687413)
