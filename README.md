@@ -1,4 +1,4 @@
-<img src="header.svg" alt="sihost" width="150" />
+<img src="header.svg" alt="sihost — reverse engineering, debugging, Windows internals" width="352" />
 
 ### [WebReX](https://github.com/sihost/WebReX)
 
@@ -6,8 +6,8 @@ Xbox 360 games, recompiled with ReXGlue, running in a browser. Xenos emulated on
 
 ---
 
-Cybersecurity student, working toward an internship. Reverse engineering, debugging, Windows internals.
+Cybersecurity student, working toward an internship.
 
 C++ · C# · Python
 
-[Discord](https://discord.com/users/1322368185516687413)
+[Discord](https://discord.com/users/13223681
