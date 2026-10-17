@@ -1,21 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="56" viewBox="0 0 150 56" role="img" aria-label="sihost">
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="74" viewBox="0 0 352 74" role="img" aria-label="sihost — reverse engineering, debugging, Windows internals">
   <style>
-    text {
+    .name {
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
       font-size: 26px;
       font-weight: 500;
       letter-spacing: 1px;
       fill: #1F2328;
     }
+    .cap {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 8.5px;
+      font-weight: 400;
+      letter-spacing: 1.6px;
+      fill: #59636E;
+    }
     .mark { stroke: #59636E; }
     .hair { stroke: #D1D9E0; }
     @media (prefers-color-scheme: dark) {
-      text { fill: #F0F6FC; }
+      .name { fill: #F0F6FC; }
+      .cap  { fill: #9198A1; }
       .mark { stroke: #9198A1; }
       .hair { stroke: #3D444D; }
     }
   </style>
-  <text x="1" y="30">sihost</text>
+  <text class="name" x="1" y="30">sihost</text>
   <line class="mark" x1="2"  y1="44.5" x2="26"  y2="44.5" stroke-width="1.5" />
-  <line class="hair" x1="31" y1="44.5" x2="140" y2="44.5" stroke-width="1.5" />
+  <line class="hair" x1="31" y1="44.5" x2="346" y2="44.5" stroke-width="1.5" />
+  <text class="cap" x="2" y="64">REVERSE ENGINEERING · DEBUGGING · WINDOWS INTERNALS</text>
 </svg>
