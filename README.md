@@ -9,8 +9,8 @@ Xbox 360 games, recompiled with ReXGlue, running in a browser. Xenos emulated on
 
 ---
 
-Cybersecurity student, working toward an internship.
+Cybersecurity student, working toward an int
 
 C++ · C# · Python
 
-[Discord](https://discord.com/users/1322368185516687413)
+[Discord](https://discord.com/users/1322368185516687413) · [X](https://x.com/sub3sihost)
