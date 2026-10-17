@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="56" viewBox="0 0 150 56" role="img" aria-label="sihost">
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 26px;
+      font-weight: 500;
+      letter-spacing: 1px;
+      fill: #1F2328;
+    }
+    .mark { stroke: #59636E; }
+    .hair { stroke: #D1D9E0; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #F0F6FC; }
+      .mark { stroke: #9198A1; }
+      .hair { stroke: #3D444D; }
+    }
+  </style>
+  <text x="1" y="30">sihost</text>
+  <line class="mark" x1="2"  y1="44.5" x2="26"  y2="44.5" stroke-width="1.5" />
+  <line class="hair" x1="31" y1="44.5" x2="140" y2="44.5" stroke-width="1.5" />
+</svg>
