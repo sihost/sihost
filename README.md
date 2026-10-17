@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="header.svg" alt="sihost" width="150" />
 
-<!--
-**sihost/sihost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [WebReX](https://github.com/sihost/WebReX)
 
-Here are some ideas to get you started:
+Xbox 360 games, recompiled with ReXGlue, running in a browser. Xenos emulated on WebGPU, the runtime built to wasm64 with Emscripten. Boots to menu, loads maps, audio and controller input, two tabs in one system-link lobby. Experimental.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Cybersecurity student, working toward an internship. Reverse engineering, debugging, Windows internals.
+
+C++ · C# · Python
+
+[Discord](https://discord.com/users/1322368185516687413)
