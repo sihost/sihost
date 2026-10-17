@@ -1,4 +1,7 @@
-<img src="header.svg" alt="sihost — reverse engineering, debugging, Windows internals" width="352" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img src="header-light.svg" alt="sihost — reverse engineering, debugging, Windows internals" width="412">
+</picture>
 
 ### [WebReX](https://github.com/sihost/WebReX)
 
